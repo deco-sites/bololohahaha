@@ -79,8 +79,8 @@
       "--tab-radius": "0.5rem"
     },
     "mainColors": {
-      "base-100": "#ffffff",
-      "primary": "#171717",
+      "base-100": "#000000",
+      "primary": "#36494E",
       "secondary": "#c7c7c7",
       "tertiary": "#404040",
       "neutral": "#333333",
@@ -289,9 +289,11 @@
       },
       {
         "__resolveType": "site/sections/Hero.tsx",
-        "title": "<p>Full Stack Development</p>",
+        "title": "aaaa",
         "cta": [],
-        "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
+        "description": "test",
+        "placement": "right",
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8800/9cd6f17a-8c34-4344-9827-89849dfc6056"
       },
       {
         "__resolveType": "site/sections/Logos.tsx"
