@@ -281,7 +281,11 @@
     "path": "/",
     "sections": [
       {
-        "__resolveType": "Header"
+        "__resolveType": "site/sections/Header.tsx",
+        "navigation": {
+          "links": [],
+          "buttons": []
+        }
       },
       {
         "__resolveType": "site/sections/Hero.tsx",
@@ -309,7 +313,11 @@
         "__resolveType": "site/sections/Faq.tsx"
       },
       {
-        "__resolveType": "Footer"
+        "__resolveType": "site/sections/Footer.tsx",
+        "links": [],
+        "bottomLinks": [],
+        "social": [],
+        "subscribe": {}
       }
     ],
     "__resolveType": "website/pages/Page.tsx",
