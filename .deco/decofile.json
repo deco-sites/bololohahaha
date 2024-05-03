@@ -7,6 +7,13 @@
     "title": "FAQs",
     "__resolveType": "site/sections/Faq.tsx"
   },
+  "Footer": {
+    "__resolveType": "site/sections/Footer.tsx",
+    "links": [],
+    "bottomLinks": [],
+    "social": [],
+    "subscribe": {}
+  },
   "Groovy Vibes": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
     "colorScheme": "any",
@@ -42,6 +49,13 @@
           "family": "Shrikhand"
         }
       ]
+    }
+  },
+  "Header": {
+    "__resolveType": "site/sections/Header.tsx",
+    "navigation": {
+      "links": [],
+      "buttons": []
     }
   },
   "Mobile": {
@@ -101,6 +115,9 @@
     "cta": [],
     "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
   },
+  "Preview /sections/ImageWithParagraph.tsx": {
+    "__resolveType": "site/sections/ImageWithParagraph.tsx"
+  },
   "Preview /sections/hero-1.tsx": {
     "__resolveType": "site/sections/hero-1.tsx"
   },
@@ -110,6 +127,9 @@
   "Preview Sections MyHero": {
     "name": "works!",
     "__resolveType": "site/sections/myHero.tsx"
+  },
+  "Preview site/sections/ImageWithParagraph.tsx": {
+    "__resolveType": "site/sections/ImageWithParagraph.tsx"
   },
   "Serene Coastline": {
     "__resolveType": "site/sections/Theme/Theme.tsx",
@@ -293,7 +313,7 @@
       }
     ],
     "__resolveType": "website/pages/Page.tsx",
-    "name": "Home to vendo vc mexer safado"
+    "name": "Home"
   },
   "site": {
     "seo": {
@@ -328,25 +348,5 @@
     "theme": {
       "__resolveType": "Neutral"
     }
-  },
-  "Preview /sections/ImageWithParagraph.tsx": {
-    "__resolveType": "site/sections/ImageWithParagraph.tsx"
-  },
-  "Preview site/sections/ImageWithParagraph.tsx": {
-    "__resolveType": "site/sections/ImageWithParagraph.tsx"
-  },
-  "Header": {
-    "__resolveType": "site/sections/Header.tsx",
-    "navigation": {
-      "links": [],
-      "buttons": []
-    }
-  },
-  "Footer": {
-    "__resolveType": "site/sections/Footer.tsx",
-    "links": [],
-    "bottomLinks": [],
-    "social": [],
-    "subscribe": {}
   }
 }
