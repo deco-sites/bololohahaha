@@ -289,11 +289,10 @@
       },
       {
         "__resolveType": "site/sections/Hero.tsx",
-        "title": "aaaa",
         "cta": [],
-        "description": "test",
         "placement": "right",
-        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8800/9cd6f17a-8c34-4344-9827-89849dfc6056"
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8800/9cd6f17a-8c34-4344-9827-89849dfc6056",
+        "title": "Sof"
       },
       {
         "__resolveType": "site/sections/Logos.tsx"

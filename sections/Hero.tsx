@@ -11,7 +11,7 @@ export default function HeroFlats({
   title = "",
   description =
     "",
-  image,
+  image = "https://i.redd.it/pxqcnghso2n61.png",
 }: Props) {
   return (
     <nav class="lg:mx-auto bg-red-500">
@@ -35,7 +35,7 @@ export default function HeroFlats({
             </p>
             <div className='lg:h-[150px] md:h-[100px] h-[50px]'>
               <div className='absolute w-full flex justify-center py-[1rem]'>
-                <div className='relative lg:w-[767px] lg:h-[441px] md:w-[514px] md:h-[296px] w-80 h-[184px]'>
+                <div className='relative lg:w-[767px] lg:h-[441px] w-80 h-[184px]'>
                   {image && (
                     <Image
                       src={image}
